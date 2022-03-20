@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notes_title">Titolo Nota</string>
+    <string name="notes_sub_title">Sottotitolo Nota</string>
+    <string name="notes_desc">Inserire nota qui</string>
+    <string name="web_url">Inserire l\'URL</string>
+    <string name="storage_permission_text">Questa app richiede l\'accesso al tuo spazio di archiviazione.</string>
+    <string name="search">Cerca le tue note</string>
+    <string name="add_imgage">Aggiungere Immagine</string>
+    <string name="add_web_link">Aggiungere Link Web</string>
+    <string name="pick_color">Colore Nota</string>
+    <string name="delete_note">Cancella Nota</string>
+    <string name="cancel">Annulla</string>
+    <string name="selectOption">Selezionare un\' opzione</string>
+    <string name="itemDeleted">Nota eliminata...</string>
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="notes" translatable="false">My Notes</string>
+    <string name="notes_title">Notes Title</string>
+    <string name="notes_sub_title">Notes Sub Title</string>
+    <string name="notes_desc">Enter Note Here</string>
+    <string name="web_url">Enter Web Url</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="storage_permission_text">This app needs access to your storage.</string>
+    <string name="search">Search your notes</string>
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="imgmore" translatable="false">imgMore</string>
+    <string name="pick_color">Pick Color</string>
+    <string name="add_imgage">Add Image</string>
+    <string name="add_web_link">Add Web Link</string>
+    <string name="app_name" translatable="false">Block Notes Demo</string>
+    <string name="delete_note">Delete Note</string>
+    <string name="title2" translatable="false">App</string>
+    <string name="title1" translatable="false">Demo Notes</string>
+    <string name="selectOption">Select an option</string>
+    <string name="itemDeleted">Item Deleted...</string>
+
+</resources>
